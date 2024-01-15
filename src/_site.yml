@@ -1,0 +1,13 @@
+name: "info-684-blog"
+output_dir: "../docs"
+exclude: ["*.nb.html", "*.csv", "*.CSV", "*.dcf", "parlog", "old", "dashboard"]
+output:
+  html_document:
+    theme: journal
+    include:
+navbar:
+  title: "INFO 684 Final Project Blog"
+  right:
+    - text: "Overview"
+      href: index.html
+
