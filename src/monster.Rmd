@@ -1,0 +1,9 @@
+---
+title: "Monster"
+output: html_document
+---
+Myers, W. (1999). Monster. Harper Collins.
+
+Monster by Walter Dean Myers tells the story of Steve Harmon. Steve is on trial for the murder a drugstore owner, who was killed in a robbery gone wrong in Harlem, New York City. As the story progresses, we learn more about Steve: his life and relationships, his inner thoughts, and his hopes and dreams. Steve aspires to be a filmmaker when he grows up and much of the story is told through a screenplay. At the end of the novel, Steve is found not guilty in his case but still struggles with the implications of the events of the past year.
+
+I found Monster to be an enjoyable and powerful read. I listened to the audiobook, which I would highly recommend. The audiobook brings the storytelling-through-filmmaking aspect of the novel to life. Though it was originally published in 1999, the themes of Monster continue to be relevant today, exploring not just adolescent identity development, but what it means to be a Black teenager in America. The parts of the story that have stuck with me most are the characterization of Steve’s relationships. Steve’s struggle to understand the nature of his relationship with his lawyer, Ms. O'Brien, was a powerful example of disconnection. Above all Steve craves acceptance: from his mother, father, brother, film teacher, and the world. 

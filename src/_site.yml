@@ -10,4 +10,26 @@ navbar:
   right:
     - text: "Overview"
       href: index.html
-
+    - text: "Reviews"
+      href: reviews_main.html
+      menu:
+      - text: "Pokémon Go!"
+        href: pokemon_go.html
+      - text: "The Hate U Give"
+        href: the_hate_u_give.html
+      - text: "The Absolutely True Diary of a Part-time Indian"
+        href: the_absolutely_true_diary_of_a_part_time_indian.html
+      - text: "Monday's Not Coming"
+        href: mondays_not_coming.html
+      - text: "Reneé Rapp"
+        href: renee_rapp.html
+      - text: "Hello, Goodbye, and Everything in Between"
+        href: hello_goodbye_and_everything_in_between.html
+      - text: "They Called Us Enemy"
+        href: they_called_us_enemy.html
+      - text: "High School Musical: The Musical: The Series"
+        href: high_school_musical.html
+      - text: "A Very Large Expanse of Sea"
+        href: a_very_large_expanse_of_sea.html
+      - text: "Monster"
+        href: monster.html
