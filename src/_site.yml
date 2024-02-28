@@ -4,6 +4,7 @@ exclude: ["*.nb.html", "*.csv", "*.CSV", "*.dcf", "parlog", "old", "dashboard"]
 output:
   html_document:
     theme: journal
+    css: "style.css"
     include:
 navbar:
   title: "INFO 684 Final Project Blog"

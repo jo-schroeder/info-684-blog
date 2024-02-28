@@ -1,7 +1,16 @@
 ---
-title: "Reviews"
 output: html_document
 ---
+
+<!-- Side navigation -->
+<div class="sidenav">
+Hello here's about me
+</div>
+
+<!-- Page content -->
+<div class="main">
+
+# Reviews
 
 [Pokémon Go](pokemon_go.html)
 
@@ -23,3 +32,4 @@ output: html_document
 
 [Monster](monster.html)
 
+</div>

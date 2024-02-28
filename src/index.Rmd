@@ -1,11 +1,26 @@
+<!-- Side navigation -->
+<div class="sidenav">
+<br>
+<br>
+<br>
+<img src="vid/joanna.png" width=250px>
+<br>
+<br>
+About. this is more about my site and about me.
+</div>
+
 ---
-title: "Overview"
 output: html_document
 ---
 
+<!-- Page content -->
+<div class="main">
+
+# Overview
+
 Here is where my final project will live!
 
-~under construction~
+under construction
 
 [Pokémon Go](pokemon_go.html)
 
@@ -26,3 +41,5 @@ Here is where my final project will live!
 [A Very Large Expanse of Sea](a_very_large_expanse_of_sea.html)
 
 [Monster](monster.html)
+
+</div>
