@@ -1,8 +1,17 @@
+<!-- Side navigation -->
+<div class="sidenav">
+<br>
+<br>
+<br>
+<img src="vid/joanna.png" width=250px>
+<br>
+<br>
+Hello! I'm Joanna. Welcome to my corner of the Internet where I share my reviews of Young Adult (YA) media. 
+<br> Tags:
+</div>
+
 ---
-output: 
-  html_document:
-    includes:
-      in_header: sidenav.html
+output: html_document
 ---
 
 <!-- Page content -->

@@ -3,6 +3,6 @@ title: "Monday's Not Coming"
 output: html_document
 ---
 <video height="600" controls>
-  <source src="./vid/monday.mp4" type="video/mp4">
+  <source src="./media/monday.mp4" type="video/mp4">
 </video>
 

@@ -13,11 +13,9 @@
 
 /* The navigation menu links */
 .sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
+  font-style: italic;
+  font-size: 14px;
+  color: #CF9FFF;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -35,4 +33,10 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+}
+
+.cover{
+  height: 300px;
+  float: left;
+  margin: 20px;
 }

@@ -1,9 +1,34 @@
 ---
-title: "A Very Large Expanse of Sea"
-output: html_document
+output: 
+  html_document:
+    includes:
+      in_header: sidenav.html
 ---
-Mafi, T. (2018). A Very Large Expanse of Sea. HarperCollins.
+<!-- Page content -->
+<div class="main">
+
+# A Very Large Expanse of Sea
+### January 5, 2024
+
+<img class="cover" src="./media/cover-a_very_large.jpg" alt="Book cover a very large expanse of sea">
+<!--
+https://www.amazon.com/Very-Large-Expanse-Sea/dp/0062866567
+-->
 
 In A Very Large Expanse of Sea, Shirin is a headstrong, cool hijabi starting her sophomore year at a new high school. It is the year after 9/11 and for Shirin, who has dealt with bigotry all her life, routine verbal abuse from her peers is all too familiar. Over the course of the school year, Shirin matures in surprising ways. She fulfills a lifelong dream of learning to breakdance and stars in a breakdancing crew. She also has her first relationship with the school’s golden boy, Ocean, which causes some turbulence in Shrin’s life and the community. 
 
 I thoroughly enjoyed A Very Large Expanse of Sea and would definitely recommend it to anyone who likes Coming of Age novels. Shirin is a great character: she is effortlessly cool, likable, and has unique interests that I feel are underrepresented in media. I honestly aspire to have her self-confidence, especially given her age. I also found myself giddily listening to the progression of the relationship between Shirin and Ocean. The ideas explored in the novel, like stereotyping and bigotry, remind us to be non-judgemental in our interactions with others. Also, we see how Shirin’s world changes when she lets her guard down, showing us how elation and disappointment are all part of the human experience. This story is not all sunshine and rainbows and succeeds in its honest depiction of teen life.   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yEpzAxVxv14?si=V3KDhk_jFzUQshB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--
+https://www.teenvogue.com/story/a-very-large-expanse-of-sea-tahereh-mafi
+-->
+
+Awards: Longlisted for the National Book Award for Young People's Literature!
+
+Mafi, T. (2018). A Very Large Expanse of Sea. HarperCollins.
+
+Tags: 
+
+</div>

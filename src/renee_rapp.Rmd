@@ -3,6 +3,6 @@ title: "Reneê Rapp"
 output: html_document
 ---
 <video height="600" controls>
-  <source src="./vid/renee.mp4" type="video/mp4">
+  <source src="./media/renee.mp4" type="video/mp4">
 </video>
 

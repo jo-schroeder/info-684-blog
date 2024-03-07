@@ -9,9 +9,11 @@ output:
 navbar:
   title: "INFO 684 Final Project Blog"
   right:
-    - text: "Overview"
+    - text: "Home"
       href: index.html
-    - text: "Reviews"
+    - text: "About"
+      href: about.html
+    - text: "Blog Posts"
       href: reviews_main.html
       menu:
       - text: "Pokémon Go!"
@@ -34,3 +36,5 @@ navbar:
         href: a_very_large_expanse_of_sea.html
       - text: "Monster"
         href: monster.html
+    - text: "Credits"
+      href: credits.html

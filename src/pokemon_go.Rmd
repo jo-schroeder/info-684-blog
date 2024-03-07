@@ -4,5 +4,5 @@ output: html_document
 ---
 
 <video height="600" controls>
-  <source src="./vid/pokemon.mp4" type="video/mp4">
+  <source src="./media/pokemon.mp4" type="video/mp4">
 </video>
