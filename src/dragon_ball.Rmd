@@ -4,12 +4,14 @@ output:
     includes:
       in_header: sidenav.html
 ---
-
 <!-- Page content -->
 <div class="main">
 <div class="card">
-# About
+# Dragon Ball
+### March, 2024
+<img class="cover" src="./media/cover-dragon_ball.webp" alt="Book cover dragon ball"> 
 
-About my project and my blog
+Tags: 
+
 </div>
 </div>

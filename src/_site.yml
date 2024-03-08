@@ -14,8 +14,15 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Blog Posts"
-      href: reviews_main.html
       menu:
+      - text: "Dragon Ball"
+        href: dragon_ball.html
+      - text: "Clap When You Land"
+        href: clap_when_you_land.html
+      - text: "Six of Crows"
+        href: six_of_crows.html
+      - text: "Ghosts"
+        href: ghosts.html
       - text: "Pokémon Go!"
         href: pokemon_go.html
       - text: "The Hate U Give"

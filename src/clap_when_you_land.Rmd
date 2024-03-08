@@ -4,12 +4,16 @@ output:
     includes:
       in_header: sidenav.html
 ---
-
 <!-- Page content -->
 <div class="main">
 <div class="card">
-# About
 
-About my project and my blog
+# Clap When You Land
+### March, 2024
+
+<img class="cover" src="./media/cover-clap_when_you_land.jpeg" alt="Book cover clap when you land">
+
+Tags: 
+
 </div>
 </div>

@@ -1,8 +1,23 @@
 ---
-title: "Monday's Not Coming"
-output: html_document
+output: 
+  html_document:
+    includes:
+      in_header: sidenav.html
 ---
-<video height="600" controls>
+
+<!-- Page content -->
+<div class="main">
+<div class="card">
+# Monday's Not Coming
+### Date
+
+<video width="560" controls>
   <source src="./media/monday.mp4" type="video/mp4">
 </video>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jkJmGC2QHPg?si=BCKwGfQ4gwuTWtc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wxcc_ybA3Ps?si=v13Xm18CaucBGP3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+</div>

@@ -6,6 +6,7 @@ output:
 ---
 <!-- Page content -->
 <div class="main">
+<div class="card">
 
 # They Called Us Enemy
 ### January 12, 2024
@@ -27,4 +28,5 @@ Takei, G., Eisinger, J., & Scott, S. R. (2019). They Called Us Enemy. Top Shelf 
 
 Tags: 
 
+</div>
 </div>

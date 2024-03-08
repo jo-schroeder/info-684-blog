@@ -1,0 +1,34 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: sidenav.html
+---
+<!-- Page content -->
+<div class="main">
+
+# Six of Crows
+### March 1, 2024
+
+<!-- <img class="cover" src="./media/cover-a_very_large.jpg" alt="Book cover a very large expanse of sea"> -->
+<!--
+https://www.amazon.com/Very-Large-Expanse-Sea/dp/0062866567
+-->
+
+Six of Crows is a fantasy dystopia novel set in the fictional city of Ketterdam. To prevent a dangerous drug from being released, Kaz must assemble a crew to break into the military Ice Court where a scientist is being held prisoner. His crew consists of some likely and unlikely friends, and together they have complementary strengths. Over the course of the novel, we learn more about the complicated backstories of the crew members. Their loyalty to each other is tested and they must decide whether to stick together to accomplish their missions. 
+
+Fantasy is not a genre I generally gravitate towards, but I picked this book up after hearing a lot of praise. At the beginning of the story, it was hard for me to overlook some of the tropes of the genre. Funny people and place names associated with worldbuilding always take me out of a story (though I guess in this case it was mostly just Dutch). Quickly, though, I found myself compelled by the characters and immersed in the story. The theme of loyalty runs through this book – dare I call the crew a chosen family of sorts? I think fans of fantasy as well as readers who enjoy a story with elements of unraveling mysteries will like this book. After finishing Six of Crows, I might just have to pick up the sequel, Crooked Kingdom, to see how this story ends.
+
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/yEpzAxVxv14?si=V3KDhk_jFzUQshB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+-->
+<!--
+https://www.teenvogue.com/story/a-very-large-expanse-of-sea-tahereh-mafi
+-->
+<!--
+Awards: Longlisted for the National Book Award for Young People's Literature!
+-->
+Bardugo, L. (2015) Six of Crows. Henry Holt and Co.
+
+Tags: 
+
+</div>

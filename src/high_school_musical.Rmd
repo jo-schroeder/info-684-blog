@@ -6,6 +6,7 @@ output:
 ---
 <!-- Page content -->
 <div class="main">
+<div class="card">
 
 # High School Musical: The Musical: The Series
 ### January 12, 2024
@@ -23,4 +24,5 @@ Awards: Winner GLAAD Media Award, Nickelodeon Kids' Choice Awards
 
 Federle, T. (Writer) & Davis, T. (Director). (2019, November 8). The Auditions (Season 1, Episode 1) [TV series episode]. In Goldstick, O., Federle, T., Borden, B., Rosenbush, B., & Davis, T. (Executive Producers), High School Musical: The Musical: The Series. Chorus Boy; Salty Pictures, Disney Channel. 
 
+</div>
 </div>
