@@ -7,13 +7,13 @@ output:
 <!-- Page content -->
 <div class="main">
 <div class="card">
-# Ghosts
-### March 1, 2024
+# <em> Ghosts </em> by Leigh Bardugo [Graphic Novel]
+### February 29, 2024
 
+<figure>
 <img class="cover" src="./media/cover-ghosts.jpg" alt="Book cover ghosts"> 
-<!--
-https://www.amazon.com/Very-Large-Expanse-Sea/dp/0062866567
--->
+<figcaption> Source: </figcaption>
+</figure>
 
 Ghosts follows Catrina’s move with her family from sunny southern California to the windy, coastal town of Bahía de la Luna in northern California. Cat is not pleased with the change of scenery, leaving behind her old life and friends. Her family had to move, though, because Cat’s sister, Maya, has cystic fibrosis. While living by the ocean may temporarily relieve Maya’s symptoms, there is no known cure for her disease. Maya makes peace with this reality by talking to the ghosts that inhabit Bahía de la Luna, but Cat is much more fearful and apprehensive. As Día de los Muertos approaches, Cat must face her feelings and embrace the phantoms. 
 
@@ -23,11 +23,11 @@ I wish I had a book like Ghosts around when I was younger. I dealt with (what fe
 
 https://www.npr.org/2016/09/11/493183503/ghosts-takes-on-a-tough-topic-for-children
 
+**Awards:** Eisner Award for Best Publication for Kids (ages 9–12) and the Dwayne McDuffie Award for Kids' Comics
+
+Tags: <a href="tags-graphic_novel.html">graphic novel</a> 
+
 Telgemeier, R. (2016). Ghosts. Scholastic/Graphix.
-
-Awards: Eisner Award for Best Publication for Kids (ages 9–12) and the Dwayne McDuffie Award for Kids' Comics
-
-Tags: 
 
 </div>
 </div>

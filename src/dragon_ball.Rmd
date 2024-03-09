@@ -7,11 +7,11 @@ output:
 <!-- Page content -->
 <div class="main">
 <div class="card">
-# Dragon Ball
-### March, 2024
+# <em> Dragon Ball </em> by Akira Toriyama [Manga]
+### March 12, 2024
 <img class="cover" src="./media/cover-dragon_ball.webp" alt="Book cover dragon ball"> 
 
-Tags: 
+Tags: <a href="tags-graphic_novel.html">graphic novel</a> 
 
 </div>
 </div>

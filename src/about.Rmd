@@ -10,6 +10,10 @@ output:
 <div class="card">
 # About
 
-About my project and my blog
+Hello! I'm Joanna. I'm a Master's student in Library and Information Science at Drexel University. This website was created for the class INFO 684 Resources for Young Adults, taught by Professor Genive Purchase. 
+
+<br>
+Please explore my blog posts, which discuss a variety genres and mediums. I had a lot of fun putting together this project! I hope you encounter a new or interesting story, voice, or perspective on this website. 
+
 </div>
 </div>

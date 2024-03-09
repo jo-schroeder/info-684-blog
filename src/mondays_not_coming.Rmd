@@ -8,8 +8,8 @@ output:
 <!-- Page content -->
 <div class="main">
 <div class="card">
-# Monday's Not Coming
-### Date
+# <em> Monday's Not Coming </em> by Tiffany D. Jackson [Novel]
+### February 3, 2024
 
 <video width="560" controls>
   <source src="./media/monday.mp4" type="video/mp4">
@@ -18,6 +18,8 @@ output:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkJmGC2QHPg?si=BCKwGfQ4gwuTWtc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wxcc_ybA3Ps?si=v13Xm18CaucBGP3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Tags: <a href="tags-book.html"book</a> 
 
 </div>
 </div>

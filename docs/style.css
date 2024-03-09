@@ -81,7 +81,6 @@ h2:hover {
 
 .cover {
   height: 300px;
-  float: left;
   margin: 20px;
 }
 
@@ -120,4 +119,15 @@ h2:hover {
 
 .image {
   height: 150px;
+}
+
+figure {
+  padding: 4px;
+  margin: auto;
+  float: left;
+}
+
+figcaption {s
+  padding: 2px;
+  text-align: center;
 }

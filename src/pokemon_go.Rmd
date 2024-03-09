@@ -7,16 +7,21 @@ output:
 <!-- Page content -->
 <div class="main">
 <div class="card">
-# Pokémon Go!
-### Date
+# <em> Pokémon Go </em> [Video Game]
+### February 21, 2024
 
-<img class="cover" src="./media/cover-pokemon_go.jpg" alt="Book cover pokemon go"> 
+<figure>
+<img style="height:100px;" class="cover" src="./media/cover-pokemon_go.png" alt="Book cover pokemon go"> 
+<figcaption> Source: </figcaption>
+</figure>
 
 <video width="560" controls>
   <source src="./media/pokemon.mp4" type="video/mp4">
 </video>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xJXGtCtEB00?si=XaBU3tbqoXasWZKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Tags: <a href="tags-other_media.html">other media</a> 
 
 </div>
 </div>

@@ -7,11 +7,18 @@ output:
 
 <!-- Page content -->
 <div class="main">
-# Reneê Rapp
-### Date 
+<div class="card">
 
-<video height="600" controls>
+# <em> Snow Angel </em> by Reneé Rapp [Music Album]
+### February 1, 2024 
+
+<video width="560" controls>
   <source src="./media/renee.mp4" type="video/mp4">
 </video>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/59qLbIFzFy4?si=C1IeUCqD1fddAVjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Tags: <a href="tags-other_media.html">other media</a> 
+
+</div>
 </div>

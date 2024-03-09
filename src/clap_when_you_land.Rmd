@@ -8,12 +8,12 @@ output:
 <div class="main">
 <div class="card">
 
-# Clap When You Land
-### March, 2024
+# <em> Clap When You Land </em> by Elizabeth Acevedo [Novel]
+### March 11, 2024
 
 <img class="cover" src="./media/cover-clap_when_you_land.jpeg" alt="Book cover clap when you land">
 
-Tags: 
+Tags: <a href="tags-book.html">book</a> 
 
 </div>
 </div>
