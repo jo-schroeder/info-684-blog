@@ -9,7 +9,20 @@ output:
 <div class="card">
 # <em> Dragon Ball </em> by Akira Toriyama [Manga]
 ### March 12, 2024
+<figure>
 <img class="cover" src="./media/cover-dragon_ball.webp" alt="Book cover dragon ball"> 
+<figcaption>Dragon Ball [Cover Art] Viz Media</figcaption>
+</figure>
+
+
+
+Watch [this video](https://www.youtube.com/embed/RofBEbuX-Lw?si=AENFkauL5tGWoKnZ) for reporting on the death of Akira Toriyama.
+
+There are so many great tributes to Akira Toriyama on YouTube. [Here's one of them](https://www.youtube.com/embed/43-4GnHqUL0?si=kT5vBdYh3ZDt2xfy) that highlights some of the additional media *Dragon Ball* spawned.
+
+*Awards*: Akira Toriyama will be honored with a Lifetime Achievement Award at the 2024 Tokyo Anime Awards Festival
+
+Toriyama, A. (1984). Dragon Ball. Viz Media.
 
 Tags: <a href="tags-graphic_novel.html">graphic novel</a> 
 

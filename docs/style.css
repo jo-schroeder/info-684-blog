@@ -14,6 +14,10 @@ p > a {
   color: #CF9FFF;
 }
 
+a {
+color: #CF9FFF;
+}
+
 p > a:hover {
   font-weight: bold;
   color: #CF9FFF;
@@ -81,7 +85,6 @@ h2:hover {
 
 .cover {
   height: 300px;
-  margin: 20px;
 }
 
 .card {
@@ -123,11 +126,12 @@ h2:hover {
 
 figure {
   padding: 4px;
-  margin: auto;
+  margin: 20px;
   float: left;
 }
 
-figcaption {s
-  padding: 2px;
+figcaption {
   text-align: center;
+  font-size: 8pt;
+  max-width: 200px;
 }

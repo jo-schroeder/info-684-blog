@@ -12,11 +12,19 @@ output:
 # <em> Snow Angel </em> by Reneé Rapp [Music Album]
 ### February 1, 2024 
 
+<figure>
+<img sclass="cover" src="./media/cover-snow_angel.png" alt="Book cover snow angel"> 
+<figcaption> Snow Angel [Cover Art] Interscope</figcaption>
+</figure>
+
 <video width="560" controls>
   <source src="./media/renee.mp4" type="video/mp4">
 </video>
 
+Here is a compliation of some of Reneé's best unfiltered interview moments. She's a national treasure.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59qLbIFzFy4?si=C1IeUCqD1fddAVjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Rapp, R. (2023). Snow Angel [Album]. Interscope.
 
 Tags: <a href="tags-other_media.html">other media</a> 
 

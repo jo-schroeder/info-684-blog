@@ -12,16 +12,23 @@ output:
 
 <figure>
 <img style="height:100px;" class="cover" src="./media/cover-pokemon_go.png" alt="Book cover pokemon go"> 
-<figcaption> Source: </figcaption>
+<figcaption> Pokémon Go [Cover Art] Niantic, Inc </figcaption>
 </figure>
 
 <video width="560" controls>
   <source src="./media/pokemon.mp4" type="video/mp4">
 </video>
 
+This video is a retrospective on how Pokémon Go has aged as a game after being out for five years. If you get a chance to play the game, let me know what you think!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xJXGtCtEB00?si=XaBU3tbqoXasWZKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+**Awards:** The Game Award for Best Family Game (2016), BAFTA Games Award for Mobile & Handheld (2017), The Game Award for Best Mobile/Handheld Game (2016)
+
+Pokémon Go (iOS version) [Video game]. (2024). Niantic, Inc.
+
 Tags: <a href="tags-other_media.html">other media</a> 
+
+
 
 </div>
 </div>

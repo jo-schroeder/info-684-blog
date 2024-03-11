@@ -11,18 +11,25 @@ output:
 # High School Musical: The Musical: The Series
 ### January 12, 2024
 
+<figure>
 <img class="cover" src="./media/cover-hsm.png" alt="Book cover hsm">
+<figcaption>High School Musical: The Musical: The Series [Cover Art] Chorus Boy; Salty Pictures, Disney Channel</figcaption>
+</figure>
+
 <!-- https://en.wikipedia.org/wiki/High_School_Musical:_The_Musical:_The_Series#Critical_response --->
 
-The school where High School Musical was filmed has never staged a production of High School Musical: The Musical? Straight to jail. The first episode of this series follows a group of high school students as the school year starts and auditions for the musical begin. A relationship takes center stage: Will Ricky be able to win Nini back after breaking her heart over the summer? After the cast list is posted, it becomes clear that he will get his chance. Fans of mockumentary-style TV and the original High School Musical will enjoy this lighthearted episode. 
+The school where *High School Musical* was filmed has never staged a production of *High School Musical: The Musica*l? Straight to jail. The first episode of this series follows a group of high school students as the school year starts and auditions for the musical begin. A relationship takes center stage: Will Ricky be able to win Nini back after breaking her heart over the summer? After the cast list is posted, it becomes clear that he will get his chance. Fans of mockumentary-style TV and the original High School Musical will enjoy this lighthearted episode. 
 
-I grew up watching the original High School Musical series, so I’ve been curious about this show ever since it aired. The show is entertaining, fun, and self-aware. Some of it comes across as cheesy, but it’s kind of the vibe. The episode definitely introduces some deeper plotlines, like Ricky’s family life, but the tone isn’t too serious or overbearing. The first episode really only develops Nini and Ricky as characters and I hope that some of the side characters are more developed throughout the series. No, this isn’t the best, most profound TV show ever produced. But do I want to find out what happens in the second episode? Absolutely.
+I grew up watching the original *High School Musical* series, so I’ve been curious about this show ever since it aired. The show is entertaining, fun, and self-aware. Some of it comes across as cheesy, but it’s kind of the vibe. The episode definitely introduces some deeper plotlines, like Ricky’s family life, but the tone isn’t too serious or overbearing. The first episode really only develops Nini and Ricky as characters and I hope that some of the side characters are more developed throughout the series. No, this isn’t the best, most profound TV show ever produced. But do I want to find out what happens in the second episode? Absolutely.
 
-Awards: Winner GLAAD Media Award, Nickelodeon Kids' Choice Awards
+**Selected Awards:** Winner, GLAAD Media Award (2020), Winner, Nickelodeon Kids' Choice Awards Favorite Kids TV Show (2020)
 
+Here is the blooper reel for the first season of the show.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDBXvMED_f8?si=vrVPJxz82PyI4ZWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Federle, T. (Writer) & Davis, T. (Director). (2019, November 8). The Auditions (Season 1, Episode 1) [TV series episode]. In Goldstick, O., Federle, T., Borden, B., Rosenbush, B., & Davis, T. (Executive Producers), High School Musical: The Musical: The Series. Chorus Boy; Salty Pictures, Disney Channel. 
+
+Tags: <a href="tags-other_media.html">other media</a> 
 
 </div>
 </div>

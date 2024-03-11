@@ -5,33 +5,74 @@ output:
       in_header: sidenav.html
 ---
 
-<!-- Page content -->
 <div class="main">
 
-# Overview
+<div class="card">
+  <a href="pokemon_go.html"> <h2><em> Pokémon Go </em> [Video Game] </h2> </a>
+    <h5>February 21, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-pokemon_go.png" alt="The Cover of  Pokémon Go" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Can you catch 'em all?
+  <br> <br>
+  Tags: <a href="tags-other_media.html">other media</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-Here is where my final project will live!
+<div class="card">
+  <a href="renee_rapp.html"> <h2><em> Snow Angel </em> by Reneé Rapp [Music Album] </h2> </a>
+    <h5>February 1, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-snow_angel.png" alt="The Cover of Snow Angel" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Here is a preview of the post! 
+  <br> <br>
+  Tags: <a href="tags-other_media.html">other media</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-under construction
+<div class="card">
+  <a href="hello_goodbye_and_everything_in_between.html"> <h2><em> Hello, Goodbye, and Everything in Between </em> [Movie] </h2> </a>
+    <h5>January 25, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-hello_goodbye_and.jpeg" alt="The Cover of Hello, Goodbye, and Everything in Between" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Claire is leaving for Dartmouth College in the morning so she scheduled her breakup with Aidan tonight. Don’t worry, they’ve been planning this breakup ever since they got together last summer.
+  <br> <br>
+  Tags: <a href="tags-other_media.html">other media</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-[Pokémon Go](pokemon_go.html)
-
-[The Hate U Give](the_hate_u_give.html)
-
-[The Absolutely True Diary of a Part-time Indian](the_absolutely_true_diary_of_a_part_time_indian.html)
-
-[Monday's Not Coming](mondays_not_coming.html)
-
-[Reneé Rapp](renee_rapp.html)
-
-[Hello, Goodbye, and Everything in Between](hello_goodbye_and_everything_in_between.html)
-
-[They Called Us Enemy](they_called_us_enemy.html)
-
-[High School Musical: The Musical: The Series](high_school_musical.html)
-
-[A Very Large Expanse of Sea](a_very_large_expanse_of_sea.html)
-
-[Monster](monster.html)
+<div class="card">
+  <a href="high_school_musical.html"> <h2><em> High School Musical: The Musical: The Series </em> [TV Show] </h2> </a>
+    <h5>January 24, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-hsm.png" alt="The Cover of High School Musical: The Musical: The Series" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  The school where <em>High School Musical</em> was filmed has never staged a production of <em>High School Musical: The Musical</em>? Straight to jail.
+  <br> <br>
+  Tags: <a href="tags-other_media.html">other media</a> 
+  </p>
+  </div>
+</div>
+</div>
 
 </div>

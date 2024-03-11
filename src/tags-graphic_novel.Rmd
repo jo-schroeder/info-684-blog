@@ -1,0 +1,59 @@
+---
+output: 
+  html_document:
+    includes:
+      in_header: sidenav.html
+---
+<div class="main">
+<div class="card">
+  <a href="dragon_ball.html"> <h2><em> Dragon Ball </em> by Akira Toriyama [Manga] </h2> </a>
+    <h5>March 12, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-dragon_ball.webp" alt="The Cover of Dragon Ball" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Here is a preview of the post! 
+  <br> <br>
+  Tags: <a href="tags-graphic_novel.html">graphic novel</a> 
+  </p>
+  </div>
+</div>
+</div>
+
+<div class="card">
+  <a href="ghosts.html"> <h2><em> Ghosts </em> by Raina Telgemeier [Graphic Novel] </h2> </a>
+    <h5>February 29, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-ghosts.jpg" alt="The Cover of Ghosts" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Ghosts follows Catrina’s move with her family from sunny southern California to the windy, coastal town of Bahía de la Luna in northern California. Cat is not pleased with the change of scenery, leaving behind her old life and friends. Her family had to move, though, because Cat’s sister, Maya, has cystic fibrosis.
+  <br> <br>
+  Tags: <a href="tags-graphic_novel.html">graphic novel</a>, <a href="tags-coming_of_age.html">coming of age</a> 
+  </p>
+  </div>
+</div>
+</div>
+
+<div class="card">
+  <a href="they_called_us_enemy.html"> <h2><em> They Called Us Enemy </em> by George Takei [Graphic Novel] </h2> </a>
+    <h5>January 24, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-they_called_us.jpeg" alt="The Cover of They Called Us Enemy" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  The Called Us Enemy details a profound period of George Takei’s life. Not when he starred on Star Trek, but when he and his family were imprisoned by the U.S. government during World War II.  
+  <br> <br>
+  Tags: <a href="tags-graphic_novel.html">graphic novel</a>, <a href="tags-coming_of_age.html">coming of age</a> 
+  </p>
+  </div>
+</div>
+</div>
+
+</div>

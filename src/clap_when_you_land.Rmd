@@ -11,7 +11,21 @@ output:
 # <em> Clap When You Land </em> by Elizabeth Acevedo [Novel]
 ### March 11, 2024
 
+<figure>
 <img class="cover" src="./media/cover-clap_when_you_land.jpeg" alt="Book cover clap when you land">
+<figcaption>Clap When You Land [Cover Art]  HarperTeen</figcaption>
+</figure>
+
+
+In this video, Elizabeth Acevedo reads the poem that opens *Clap When You Land*.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9zwVipEhU0?si=AYUmCW4Pv7qBjF_W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Elizabeth Acevedo is a talented poet, here's another video of her performing. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8TifkOus8y4?si=XJ3gtuRl51-U4XyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Awards**: Finalist, Kirkus Prize (2020), Winner, Goodreads Choice Awards Young Adult Fiction (2020), Top Ten, YALSA’s Best Fiction for Young Adults (2021), Nominee Top Ten, YALSA’s Teens’ (2021), Short list, Carnegie Medal.
+
+Acevedo, E. (2020). Clap When You Land. HarperTeen.
 
 Tags: <a href="tags-book.html">book</a> 
 

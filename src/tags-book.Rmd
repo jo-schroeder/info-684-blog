@@ -4,34 +4,125 @@ output:
     includes:
       in_header: sidenav.html
 ---
-
-<!-- Page content -->
 <div class="main">
 
-# Overview
+<div class="card">
+  <a href="clap_when_you_land.html"> <h2><em> Clap When You Land </em> by Elizabeth Acevedo [Novel] </h2> </a>
+    <h5>March 11, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-clap_when_you_land.jpeg" alt="The Cover of Clap When You Land" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Here is a preview of the post! 
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-Here is where my final project will live!
+<div class="card">
+  <a href="six_of_crows.html"> <h2><em> Six of Crows </em> by Leigh Bardugo [Novel] </h2> </a>
+    <h5>March 1, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-six_of_crows.jpg" alt="The Cover of Six of Crows" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Six of Crows is a fantasy dystopia novel set in the fictional city of Ketterdam. To prevent a dangerous drug from being released, Kaz must assemble a crew to break into the military Ice Court where a scientist is being held prisoner.
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-under construction
+<div class="card">
+  <a href="the_hate_u_give.html"> <h2><em> The Hate U Give </em> by Angie Thomas [Novel] </h2> </a>
+    <h5>February 17, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-the_hate_u.jpg" alt="The Cover of The Hate U Give" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Starr’s life has always been complicated: split between the cultures of her home neighborhood, Garden Heights, and the school she attends, Williamson Prep. When she experiences first-hand the trauma of best friend’s murder at the hands of the police, her life changes forever.
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-[Pokémon Go](pokemon_go.html)
+<div class="card">
+  <a href="the_absolutely_true_diary_of_a_part_time_indian.html"> <h2><em> The Absolutely True Diary of a Part-time Indian </em> by Sherman Alexie [Novel] </h2> </a>
+    <h5>February 17, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-absolutely_true_diary.jpg" alt="The Absolutely True Diary of a Part-time Indian" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  The Absolutely True Diary of a Part-Time Indian follows Junior who, like generations before him, was born and raised on the Spokane Indian Reservation. Over time, Junior begins to want something different for his life.
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a>, <a href="tags-coming_of_age.html">coming of age</a>  
+  </p>
+  </div>
+</div>
+</div>
 
-[The Hate U Give](the_hate_u_give.html)
+<div class="card">
+  <a href="mondays_not_coming.html"> <h2><em> Monday's Not Coming </em> by Tiffany D. Jackson [Novel] </h2> </a>
+    <h5>February 3, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-mondays_not_coming.jpg" alt="The Cover of Monday's Not Coming" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  Here is a preview of the post! 
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a> 
+  </p>
+  </div>
+</div>
+</div>
 
-[The Absolutely True Diary of a Part-time Indian](the_absolutely_true_diary_of_a_part_time_indian.html)
+<div class="card">
+  <a href="a_very_large_expanse_of_sea.html"> <h2><em> A Very Large Expanse of Sea </em> by Tahereh Mafi [Novel] </h2> </a>
+    <h5>January 20, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-a_very_large.jpg" alt="The Cover of A Very Large Expanse of Sea" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  In <em> A Very Large Expanse of Sea </em>, Shirin is a headstrong, cool hijabi starting her sophomore year at a new high school. It is the year after 9/11 and for Shirin, who has dealt with bigotry all her life, routine verbal abuse from her peers is all too familiar.
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a>, <a href="tags-coming_of_age.html">coming of age</a>  
+  </p>
+  </div>
+</div>
+</div>
 
-[Monday's Not Coming](mondays_not_coming.html)
-
-[Reneé Rapp](renee_rapp.html)
-
-[Hello, Goodbye, and Everything in Between](hello_goodbye_and_everything_in_between.html)
-
-[They Called Us Enemy](they_called_us_enemy.html)
-
-[High School Musical: The Musical: The Series](high_school_musical.html)
-
-[A Very Large Expanse of Sea](a_very_large_expanse_of_sea.html)
-
-[Monster](monster.html)
+<div class="card">
+  <a href="monster.html"> <h2><em> Monster </em> by Walter Dean Myers [Novel] </h2> </a>
+    <h5>January 19, 2024</h5>
+<div class="box">
+ <div class="box child">
+  <img class="image" src="./media/cover-monster.jpg" alt="The Cover of Monster" style="object-position: left;">
+  </div>
+  <div class="box child">
+  <p>
+  <em> Monster </em> by Walter Dean Myers tells the story of Steve Harmon.  Steve is on trial for the murder a drugstore owner, who was killed in a robbery gone wrong in Harlem, New York City.
+  <br> <br>
+  Tags: <a href="tags-book.html">book</a>
+  </p>
+  </div>
+</div>
+</div>
 
 </div>
