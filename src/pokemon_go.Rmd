@@ -1,4 +1,5 @@
 ---
+title: "Blog Post: Pokémon Go"
 output: 
   html_document:
     includes:

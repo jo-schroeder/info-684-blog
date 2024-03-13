@@ -1,4 +1,5 @@
 ---
+title: "Tags: Graphic Novel"
 output: 
   html_document:
     includes:

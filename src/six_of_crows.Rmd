@@ -1,4 +1,5 @@
 ---
+title: "Blog Post: Six of Crows"
 output: 
   html_document:
     includes:

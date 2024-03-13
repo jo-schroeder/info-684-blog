@@ -7,7 +7,7 @@ output:
     css: "style.css"
     include:
 navbar:
-  title: "INFO 684 Final Project Blog"
+  title: "Joanna's YA Blog"
   right:
     - text: "Home"
       href: index.html

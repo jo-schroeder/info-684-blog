@@ -1,4 +1,5 @@
 ---
+title: "Blog Post: The Hate U Give"
 output: 
   html_document:
     includes:

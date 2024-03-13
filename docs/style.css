@@ -8,6 +8,10 @@ body {
   height: 100%;
 }
 
+#header {
+    display: none;
+}
+
 p > a {
   font-style: italic;
   font-size: 14px;

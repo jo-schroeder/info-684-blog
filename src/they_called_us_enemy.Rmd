@@ -1,4 +1,5 @@
 ---
+title: "Blog Post: They Called Us Enemy"
 output: 
   html_document:
     includes:

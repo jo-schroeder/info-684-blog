@@ -1,4 +1,5 @@
 ---
+title: "Blog Post:  High School Musical: The Musical: The Series"
 output: 
   html_document:
     includes:
