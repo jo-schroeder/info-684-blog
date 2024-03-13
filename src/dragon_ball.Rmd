@@ -14,7 +14,10 @@ output:
 <figcaption>Dragon Ball [Cover Art] Viz Media</figcaption>
 </figure>
 
-
+<video width="560" controls>
+  <source src="./media/dragon_ball.mp4" type="video/mp4">
+</video>
+[Watch my review on YouTube](https://youtu.be/pVphJB-POhY)
 
 Watch [this video](https://www.youtube.com/embed/RofBEbuX-Lw?si=AENFkauL5tGWoKnZ) for reporting on the death of Akira Toriyama.
 

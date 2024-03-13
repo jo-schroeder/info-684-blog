@@ -19,6 +19,7 @@ output:
 <video width="560" controls>
   <source src="./media/monday.mp4" type="video/mp4">
 </video>
+[Watch my review on YouTube](https://youtu.be/RwhE1yy-o_A)
 
 Here is a great video of Tiffany D. Jackson discussing some of the themes relevant to *Monday's Not Coming.*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkJmGC2QHPg?si=BCKwGfQ4gwuTWtc3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

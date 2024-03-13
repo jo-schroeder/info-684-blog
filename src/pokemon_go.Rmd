@@ -18,6 +18,7 @@ output:
 <video width="560" controls>
   <source src="./media/pokemon.mp4" type="video/mp4">
 </video>
+[Watch my review on YouTube](https://youtu.be/SHkXhM5IVec)
 
 This video is a retrospective on how Pokémon Go has aged as a game after being out for five years. If you get a chance to play the game, let me know what you think!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xJXGtCtEB00?si=XaBU3tbqoXasWZKB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ output:
   </div>
   <div class="box child">
   <p>
-  Here is a preview of the post! 
+  Want to go on an adventure?
   <br> <br>
   Tags: <a href="tags-graphic_novel.html">graphic novel</a> 
   </p>
@@ -133,7 +133,7 @@ output:
   </div>
   <div class="box child">
   <p>
-  Here is a preview of the post! 
+  What if one day your best friend went missing and you were the only one looking for her?
   <br> <br>
   Tags: <a href="tags-book.html">book</a> 
   </p>

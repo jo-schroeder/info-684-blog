@@ -20,6 +20,7 @@ output:
 <video width="560" controls>
   <source src="./media/renee.mp4" type="video/mp4">
 </video>
+[Watch my review on YouTube](https://youtube.com/shorts/DNv46pRh5CU?feature=share)
 
 Here is a compliation of some of Reneé's best unfiltered interview moments. She's a national treasure.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59qLbIFzFy4?si=C1IeUCqD1fddAVjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
