@@ -1,5 +1,5 @@
 name: "info-684-blog"
-output_dir: "../docs"
+output_dir: ../docs
 exclude: ["*.nb.html", "*.csv", "*.CSV", "*.dcf", "parlog", "old", "dashboard"]
 output:
   html_document:
